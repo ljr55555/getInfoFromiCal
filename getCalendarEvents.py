@@ -26,9 +26,6 @@ import pytz
 
 from config import strUsernameCrypted, strPasswordCrypted, strEWSHost, strPrimarySMTP, dictCalendars, iMaxExchangeResults, strKey
 
-# If modifying these scopes, delete the file token.pickle.
-SCOPES = ['https://www.googleapis.com/auth/calendar.readonly']
-
 # Set our time zone
 local_tz = pytz.timezone('US/Eastern')
 
