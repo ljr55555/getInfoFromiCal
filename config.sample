@@ -1,0 +1,9 @@
+strKey = b'SomeKeyGoesHere'
+
+dictCalendars = {"Fire Rescue": "https://calendar.google.com/calendar/ical/hinckleytwp.org_18c9m8lcm5surmv2hscfuppc8o%40group.calendar.google.com/public/basic.ics", "Police" : "https://calendar.google.com/calendar/ical/hinckleytwp.org_9d42uvldkg5n0vp5gmp00nrbb0%40group.calendar.google.com/public/basic.ics", "Hinckley Township": "https://calendar.google.com/calendar/ical/hinckleytwp.org_hqtq0184el0qoaae1985v8ej24%40group.calendar.google.com/public/basic.ics"}
+
+strEWSHost = 'exchange.example.com'
+strPrimarySMTP = 'MyAccount@example.com'
+strUsernameCrypted = b'CryptedUpUserNameHere'
+strPasswordCrypted = b'CryptedUpPasswordHere'
+iMaxExchangeResults = 1000
